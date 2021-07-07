@@ -1,0 +1,4 @@
+rootProject.name = "android-processor"
+include ':app'
+include ':annotation'
+include ':processor'
